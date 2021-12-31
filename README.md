@@ -1,5 +1,5 @@
 # ObservePlayers
-ObservePlayers is a resource for FiveM by Albo1125 that allows administrators to accurately and discreetly observe other players.
+ObservePlayers is a resource for FiveM by Albo1125 that allows administrators to accurately and discreetly observe other players. It is available at [https://github.com/Albo1125/ObservePlayers](https://github.com/Albo1125/ObservePlayers)
 
 ## Installation & Usage
 1. Download the latest release.
